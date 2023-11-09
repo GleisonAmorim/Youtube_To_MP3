@@ -2,7 +2,7 @@
 
 Este é um programa feito com a linguagem Python simples para baixar vídeos do YouTube e convertê-los em arquivos MP3. 
 
-Como Usar:
+# Instruções
 
 - Faça download do executável (windows): https://drive.google.com/file/d/1JplIoKyESSzAygQcTUmEWQ7Jtvb8kroy/view?usp=sharing
 - Insira o destino onde deseja salvar os arquivos MP3.
