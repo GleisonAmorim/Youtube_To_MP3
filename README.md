@@ -1,6 +1,4 @@
-Certamente! Aqui está uma descrição para o GitHub:
-
-YouTube_MP3 Converter
+**YouTube_MP3 Converter**
 
 Este é um script Python simples para baixar vídeos do YouTube e convertê-los em arquivos MP3. 
 
